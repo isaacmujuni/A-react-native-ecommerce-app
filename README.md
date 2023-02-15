@@ -1,2 +1,2 @@
 # A-react-native-ecommerce-app
-<img src="Untitled prsentation.png"> 
+<img src="image/Untitled presentation.png"> 
